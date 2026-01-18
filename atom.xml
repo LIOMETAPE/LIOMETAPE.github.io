@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liometape.github.io</id>
+    <title>Liometape Archive</title>
+    <updated>2026-01-18T05:11:51.293Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liometape.github.io"/>
+    <link rel="self" href="https://liometape.github.io/atom.xml"/>
+    <subtitle>一些作品。。。</subtitle>
+    <logo>https://liometape.github.io/images/avatar.png</logo>
+    <icon>https://liometape.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, Liometape Archive</rights>
+    <entry>
+        <title type="html"><![CDATA[渲染学习]]></title>
+        <id>https://liometape.github.io/post/hello-gridea/</id>
+        <link href="https://liometape.github.io/post/hello-gridea/">
+        </link>
+        <updated>2026-01-17T10:04:06.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="11-通过cg基于内置管线的卡通渲染">1.1 通过CG基于内置管线的卡通渲染</h2>
+<figure data-type="image" tabindex="1"><img src="https://liometape.github.io/post-images/1768634485766.png" alt="" loading="lazy"></figure>
+<h2 id="12-ue场景学习">1.2 UE场景学习</h2>
+<p><img src="https://liometape.github.io/post-images/1768639964192.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768639939081.png" alt="" loading="lazy"></p>
+<h2 id="13-卡通头发制作渲染">1.3 卡通头发制作渲染</h2>
+<p><img src="https://liometape.github.io/post-images/1768641484944.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768641605820.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768641619180.png" alt="" loading="lazy"></p>
+<h2 id="14-半写实服装制作渲染">1.4 半写实服装制作渲染</h2>
+<figure data-type="image" tabindex="2"><img src="https://liometape.github.io/post-images/1768644031586.png" alt="" loading="lazy"></figure>
+<h2 id="15-着色器基础学习基础光照模型">1.5 着色器基础学习——基础光照模型</h2>
+<figure data-type="image" tabindex="3"><img src="https://liometape.github.io/post-images/1768644667721.png" alt="" loading="lazy"></figure>
+<h2 id="16-着色器-基础学习dota光照">1.6 着色器 基础学习——DOTA光照</h2>
+<p><img src="https://liometape.github.io/post-images/1768645725820.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768645768369.png" alt="" loading="lazy"></p>
+<h2 id="17-着色器基础学习特效">1.7 着色器基础学习——特效</h2>
+<p><img src="https://liometape.github.io/post-images/1768646120886.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768646188711.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768646193973.png" alt="" loading="lazy"></p>
+<h2 id="18-substancedesigner练习">1.8 SubstanceDesigner练习</h2>
+<p><img src="https://liometape.github.io/post-images/1768649115916.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768649137271.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768649144603.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模型制作]]></title>
+        <id>https://liometape.github.io/post/mo-xing-zhi-zuo/</id>
+        <link href="https://liometape.github.io/post/mo-xing-zhi-zuo/">
+        </link>
+        <updated>2026-01-15T11:49:04.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="自行车建模练习">自行车建模练习</h2>
+<p><img src="https://liometape.github.io/post-images/1768650659370.png" alt="" loading="lazy"><br>
+<img src="https://liometape.github.io/post-images/1768650665626.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毕设引擎项目]]></title>
+        <id>https://liometape.github.io/post/bi-she-yin-qing-xiang-mu/</id>
+        <link href="https://liometape.github.io/post/bi-she-yin-qing-xiang-mu/">
+        </link>
+        <updated>2024-05-30T08:07:55.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/pin/1996195080940315351">“芯灵危机”演示视频（毕设留档）</a><br>
+<img src="https://liometape.github.io/post-images/1768712766558.png" alt="" loading="lazy"><br>
+使用资产搭建了场景，使用UE的World Partation实现了流式加载。<br>
+通过DAZ制作角色，在UE重定向，配置了角色蓝图、动画逻辑、运动战斗系统。制作了游戏UI。</p>
+]]></content>
+    </entry>
+</feed>
